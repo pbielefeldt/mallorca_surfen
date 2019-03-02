@@ -35,5 +35,17 @@ Mit drei Personen 230 €/Person
 ## Sonstige
 
 ### Clubpollentia Resort
+Web: [clubpollentia.de](https://www.clubpollentia.de/de/ "Clubpollentia (de)")
+ * Da waren wir das letzte Mal
+ * Sehr schöne Anlage
+ * Liegt nicht direkt in Port de Pollensa, sondern [~5 km entfernt](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=39.8638%2C3.0924%3B39.9017%2C3.0802#map=14/39.8829/3.0747 "OSM: Club Pollentia, Ma-2220, Port d'Alcúdia nach Surf and Sail")
+ * Dafür hat das Hotel viel zu bieten (Spa, Radverleih, diverse Pools, Bars, Entertainment etc.)
 
-### 
+U.a. hat das Hotel selbst (das ist neu, glaube ich) eine Surfschule:  
+Web: [windsurfclubpollentia.com/english](http://www.windsurfclubpollentia.com/english.htm "Windsurfclub Pollentia")
+
+__Preis__  
+Eine Woche (habe für 14.-21.09.) mit Frühstück: 
+ab 460 €/Person  
+Alles inkl.: ab 750 €/Person
+
