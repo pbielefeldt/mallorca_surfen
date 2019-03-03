@@ -5,6 +5,15 @@ Das sind die Unterkünfte, die Sail&Surf selbst betreibt.
 Als wir da waren, haben wir *nicht* bei S&S gewohnt, aber die meisten anderen Gäste schon.
 Ich glaube, das ist eigentlich nett, mit den Mitsurfern und -seglern zusammen zu wohnen.
 
+*Anreise*:  
+Nachteil: Man müsste sich um Flug selbst kümmmern. 
+Das ist aber vermutlich kein großes Problem.
+Sail & Surf bietet einen [Flughafentransfer](http://www.sailsurf.de/service/anreise/flughafentransfer.html "Anreise/Flughafentransfer") an, für 12 € pro Person und Strecke.
+
+*Verpflegung*:  
+Sail & Surf bietet auch [Verpflegung](http://www.sailsurf.de/unterkunft/verpflegung2.html "Unterkunft/Verpflegung") an; 
+Frühstück für 84 € pro Person und Woche, HP 190 €.
+
 (Anm.: Can Toni ist nur für 4+ Personen interessant)
 
 ### Pollensa Sail Anlage
