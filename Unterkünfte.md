@@ -64,7 +64,7 @@ Web: [pensionbellavista.com/?lang=de](http://www.pensionbellavista.com/?lang=de 
  * [Liegt](https://www.openstreetmap.org/node/4772609221#map=16/39.9059/3.0805 "Lage") am Hafen (aber in der zweiten Reihe)
  * Mit à la carte Restaurant
  * Sonst vermutlich keine Aktivitäten im Haus (nicht mal ein Pool?)
- * Da haat man vermutlich keine Küche
+ * Da hat man vermutlich keine Küche
  * Bisschen hipster?
  * Preisgünstig
 
