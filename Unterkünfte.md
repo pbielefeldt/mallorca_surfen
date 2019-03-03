@@ -31,7 +31,7 @@ inkl Endreinigung, Belegung mit zwei Personen, eine Woche, ab dem 14.09.:
 ### Clubhaus Apartment
 Web: [sailsurf.de/unterkunft/clubhaus-apartment/](http://www.sailsurf.de/unterkunft/clubhaus-apartment/ "Sail & Surf Clubhaus")
  * Top Lage, direkt am Strand in der Stadt
- * Ggf. laut abends? Auf der Straße am Strand ist aber vermutlich nicht viel los …
+ * Ggf. laut abends? Auf der Straße am Strand ist aber vermutlich nicht viel los …G
  * Sieht hübsch aus
  * Mit richtiger Küche; Da kann man sich auch mal was selbst zu Abend kochen
  * Hat verschiedene Zimmerkategorien für 1–4 Personen
@@ -57,4 +57,23 @@ __Preis__
 Eine Woche (habe für 14.-21.09.) mit Frühstück: 
 ab 460 €/Person  
 Alles inkl.: ab 750 €/Person
+
+### Pensión Bellavista
+Web: [pensionbellavista.com/?lang=de](http://www.pensionbellavista.com/?lang=de "Pension Bellavista (de)")
+ * Arbeitet anscheinend mit Sail & Surf zusammen
+ * [Liegt](https://www.openstreetmap.org/node/4772609221#map=16/39.9059/3.0805 "Lage") am Hafen (aber in der zweiten Reihe)
+ * Mit à la carte Restaurant
+ * Sonst vermutlich keine Aktivitäten im Haus (nicht mal ein Pool?)
+ * Da haat man vermutlich keine Küche
+ * Bisschen hipster?
+ * Preisgünstig
+
+> Im Restaurante Bellaverde, im Schatten der Jahrhunderte alten Feigenbäume in unserem Garten, können Sie beste, gesunde und hochwertige vegetarische und vegane Küche genießen.
+> Es ist das einzige vegetarische und vegane Restaurant im Norden der Insel, dort wird mit dem Gemüse aus unserem eigenen biologischen Anbau gearbeitet.
+> 
+> Dort finden Sie auch das umfangreichste, gesündeste und bunteste Frühstück der gesamten Region.
+
+__Preis__  
+Eine Woche im Zweibett-Zimmer, Hauptsaison, o.F.:  
+230 €/Person
 
