@@ -28,6 +28,13 @@
 - Tuifly, nur Handgepäck
 - gefunden auf Skyscanner
 
+### 2 ###
+- OE524: 16:25 → 18:50
+- OE523: 13:20 → 15:45
+- **122 €**
+- Laudamotion/Ryanair
+- gefunden auf Skyscanner
+
 
 ### MUC ↔ PMI
 
