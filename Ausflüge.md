@@ -20,6 +20,10 @@ Könnte man mit einem Radausflug zum Kap kombinieren.
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 -->
 
+## Pollensa
+Pollensa ist eine ehemalige römische Siedlung.
+Man kann die [Ausgrabungen][mallorcaerleben:pollentia] besichtigen.
+
 ## Wandern in der Serra de Tramuntana
 Der Top-Spot im Norden von Mallorca.
 Es gibt [diverse][komoot:uebersicht] Wanderwege dort.
@@ -46,5 +50,6 @@ Man kann auch mit dem Bus fahren, zumindest einen Teil …
 [nofrillsexcursions:ferry]: https://www.nofrills-excursions.com/excursions/ferry-service-from-port-pollensa-to-formentor/ "Ferry service from Port Pollensa to Formentor"
 [graphhopper:playaformentor]: https://graphhopper.com/maps/?point=39.906416%2C3.08284&point=39.928744%2C3.134784&locale=de&vehicle=bike&weighting=fastest&elevation=true&use_miles=false&layer=Omniscale
 [beachinspector:figuera]: https://www.beach-inspector.com/de/b/cala-figuera "Cala Figuera"
+[komoot:uebersicht]: http://www.mallorca-erleben.info/ausflugstipps/ausurzeitundantike/pollentia.html "Die Römerstadt bei Alcúdia"
 [komoot:uebersicht]: https://www.komoot.de/guide/59271/wandern-in-der-serra-de-tramuntana "Die 20 schönsten Wanderungen in der Serra de Tramuntana"
 [komoot:boquer]: https://www.komoot.de/smarttour/24491 "Cala de Bóquer Runde von carrer de Roger de Flor"
