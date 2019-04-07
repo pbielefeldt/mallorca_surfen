@@ -9,7 +9,6 @@ Die [Strecke][graphhopper:playaformentor] ist knapp 10 km lang (Fahrzeit unter 1
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/cayetano/1163673866/" title="Cala de Formentor">
   <img src="https://live.staticflickr.com/1185/1163673866_e04d068f7b.jpg" width="500" height="375" alt="Cala de Formentor">
 </a>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nicht nur als Strandausflug schön: 
 [Cala Figuera][beachinspector:figuera], kurz vorm Kap.
@@ -32,7 +31,6 @@ Zum Strand am [Cala de Bóquer][komoot:boquer] und zurück.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/sergeigussev/42771350690/" title="Cap de Formentor">
   <img src="https://live.staticflickr.com/1879/42771350690_7cd46e9f72_z.jpg" width="640" height="242" alt="Cap de Formentor">
 </a>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Highlight.
 Von Pollensa aus sind das 20 km (one way).
