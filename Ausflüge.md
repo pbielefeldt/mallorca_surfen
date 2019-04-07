@@ -6,12 +6,20 @@ Man kann mit der [Fähre][nofrillsexcursions:ferry] hinfahren.
 Alternativ kann man eine oder beide Strecken auch mit dem Rad fahren.
 Die [Strecke][graphhopper:playaformentor] ist knapp 10 km lang (Fahrzeit unter 1h).
 
-![Formentor https://flic.kr/p/2LQ8Gw](https://live.staticflickr.com/1185/1163673866_e04d068f7b_z.jpg)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/cayetano/1163673866/" title="Cala de Formentor">
+  <img src="https://live.staticflickr.com/1185/1163673866_e04d068f7b.jpg" width="500" height="375" alt="Cala de Formentor">
+</a>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nicht nur als Strandausflug schön: 
 [Cala Figuera][beachinspector:figuera], kurz vorm Kap.
 Könnte man mit einem Radausflug zum Kap kombinieren.
-<!-- ![Tramuntana https://flic.kr/p/oPGCak](https://live.staticflickr.com/3938/14979650333_667a9ddd3d_m.jpg) -->
+<!--
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/michahummel/14979650333/" title="Serra de Tramuntana">
+  <img src="https://live.staticflickr.com/3938/14979650333_667a9ddd3d.jpg" width="500" height="334" alt="Serra de Tramuntana">
+</a>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+-->
 
 ## Wandern in der Serra de Tramuntana
 Der Top-Spot im Norden von Mallorca.
@@ -21,12 +29,16 @@ Von Port de Pollença aus zum Beispiel am Cap Formentor:
 Zum Strand am [Cala de Bóquer][komoot:boquer] und zurück.
 
 ## Cap Formentor
-![https://flic.kr/p/28aymqS](https://live.staticflickr.com/1879/42771350690_7cd46e9f72_z.jpg)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sergeigussev/42771350690/" title="Cap de Formentor">
+  <img src="https://live.staticflickr.com/1879/42771350690_7cd46e9f72_z.jpg" width="640" height="242" alt="Cap de Formentor">
+</a>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Highlight.
 Von Pollensa aus sind das 20 km (one way).
 Komoot sagt, hin und zurück sei eine schwere Tour, ca. zwei Stunden lang, insgesamt 1000 hm rauf und runter.
 Man kann auch mit dem Bus fahren, zumindest einen Teil …
+
 
 <!----------->
 <!-- Links -->
